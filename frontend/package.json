@@ -38,5 +38,9 @@
     "dotenv": "^16.4.5",
     "typescript": "^5.2.2",
     "vite": "^6.3.4"
-  }
+  },
+  "trustedDependencies": [
+    "@biomejs/biome",
+    "@swc/core"
+  ]
 }
